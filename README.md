@@ -1,6 +1,6 @@
 # Issue in @vue/test-utils@1.0.0-beta.15
 
-Seems like [prvious issue](https://github.com/vuejs/vue-test-utils/issues/502) with incorrect order of depdendencies evaluation was not fully fixed.
+Seems like [previous issue](https://github.com/vuejs/vue-test-utils/issues/502) with incorrect order of depdendencies evaluation was not fully fixed.
 
 ## Setup
 ```
