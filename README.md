@@ -1,4 +1,5 @@
 This repository contains code to reproduce specific regression issue introduced in the `@vue/test-utils@1.1.3` package.
+Issue link: https://github.com/vuejs/vue-test-utils/issues/1923
 
 ### To reproduce the issue
 
