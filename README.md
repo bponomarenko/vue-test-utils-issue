@@ -1,4 +1,4 @@
-This repository contains code to reproduce specific regression issue in the `@vue/test-utils@1.1.3` package.
+This repository contains code to reproduce specific regression issue introduced in the `@vue/test-utils@1.1.3` package.
 
 ### To reproduce the issue
 
@@ -12,5 +12,4 @@ To verify this is regression issue, simply update `@vue/test-utils` to version `
 1. `npm install --save-dev --save-exact @vue/test-utils@1.1.2`
 1. `npm run test`
 
-This time unit test should successfully pass.
-G
+This time unit test should successfully pass. Issue is reproduced starting from `v1.1.3`
